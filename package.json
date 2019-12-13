@@ -1,0 +1,17 @@
+{
+  "name": "divulgue-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/mateus-aalexandre/divulgue-api.git",
+  "author": "Mateus Aalexandre <j.amadeu2018@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "sequelize-cli": "^5.5.1"
+  }
+}
