@@ -6,9 +6,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Seu maluco",
-    not: "Não é necessário",
-    message2: "Hello World"
+    message: "Seu maluco"
   });
 });
 
