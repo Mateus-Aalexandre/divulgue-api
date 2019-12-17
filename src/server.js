@@ -6,7 +6,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Seu maluco"
+    message: "Hello Divulgue"
   });
 });
 
